@@ -5,3 +5,4 @@ home
 long format
 all
 hdden
+drectry

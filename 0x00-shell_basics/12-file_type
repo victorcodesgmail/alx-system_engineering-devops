@@ -1,3 +1,2 @@
 #!/bin/bash
-file -b /tmp/iamafile | head -n 1
-
+file -b /tmp/iamafile

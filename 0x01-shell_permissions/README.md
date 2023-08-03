@@ -1,1 +1,2 @@
 wrte
+#!/bin/bash

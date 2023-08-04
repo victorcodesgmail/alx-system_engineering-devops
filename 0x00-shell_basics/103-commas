@@ -1,2 +1,2 @@
 #!/bin/bash
-(printf "%s\n" . ..; LC_COLLATE=C ls -Ap | sed '/\/$/!s/$/,/' | tr -d '\n'; echo)
+ls -amvp
